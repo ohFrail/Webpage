@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>The title goes here</title>
+</head>
+<body>
+<h1>This is a level one heading</h1>
+<p>My first lovely paragraph. Wow. This is fun.</p>
+<p>My second lovely paragraph. We can make paragraphs forever.</p>
+<h2>This is a level two heading</h2>
+<p>This is my third paragraph.</p>
+</body>
+</html>
